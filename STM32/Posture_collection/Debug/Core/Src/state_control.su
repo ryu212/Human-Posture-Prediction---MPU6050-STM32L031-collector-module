@@ -1,0 +1,2 @@
+../Core/Src/state_control.c:4:6:init_state	16	static
+../Core/Src/state_control.c:15:6:change_state	16	static

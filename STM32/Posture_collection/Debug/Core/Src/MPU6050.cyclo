@@ -1,0 +1,6 @@
+../Core/Src/MPU6050.c:4:9:MPU6050_Init	2
+../Core/Src/MPU6050.c:25:9:MPU6050_Read_WhoAmI	1
+../Core/Src/MPU6050.c:33:6:MPU6050_Read_Accel	1
+../Core/Src/MPU6050.c:52:9:MPU6050_Init_High	2
+../Core/Src/MPU6050.c:105:9:MPU6050_Read_WhoAmI_High	1
+../Core/Src/MPU6050.c:122:6:MPU6050_Read_Accel_High	1
