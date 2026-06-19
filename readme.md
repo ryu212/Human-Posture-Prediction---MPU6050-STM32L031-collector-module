@@ -1,9 +1,9 @@
 # Posture prediction based on STM32L031 collector
 
-![alt text](images/image.png)
+![alt text](Images/image.png)
 
 ## Program base FSM
-![alt text](images/FSM.png)
+![alt text](Images/FSM.png)
 
 ## PCB available at
 
@@ -16,7 +16,7 @@ https://drive.google.com/drive/folders/1lwTvIWg39uqETlzpsQS6dVpFMPa7IrEi?usp=sha
 ## Usage:
 
 
-![alt text](images/top_view.png)
+![alt text](Images/top_view.png)
 
 Start set theo D9 pin - SW to 1 (that mean GPIO will read 0 because of the pull of is get connected to GND).
 
